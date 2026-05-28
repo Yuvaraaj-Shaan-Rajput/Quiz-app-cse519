@@ -12,3 +12,5 @@ Static HTML/CSS/JavaScript quiz application for CSE519.
 - GitHub Pages compatible
 
 
+Live link : https://yuvaraaj-shaan-rajput.github.io/Quiz-app-cse519/
+
