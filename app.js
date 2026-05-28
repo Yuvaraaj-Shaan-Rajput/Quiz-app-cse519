@@ -1,25 +1,25 @@
 
 const topics = {
-  "Basic Data": "./questions/basic-data.js",
-  "Probability & Statistics": "./questions/prob-and-stats.js",
-  "Continuous Distributions": "./questions/continuous-distribution.js",
-  "Regression": "./questions/regression.js",
+  "Basic Of Data": "./questions/basic-data.js",
   "Classification": "./questions/classification.js",
   "Decision Trees": "./questions/decision-trees.js",
-  "Graphs": "./questions/graphs.js",
-  "Geospatial": "./questions/geospatial.js",
-  "Embeddings": "./questions/embeddings.js",
   "Tabular Data": "./questions/tabular-data.js",
+  "Embeddings": "./questions/embeddings.js",
+  "Regression": "./questions/regression.js",
   "Time Series": "./questions/time-series.js",
   "Event-Based Time Series": "./questions/event-based-time-series.js",
+  "Geospatial": "./questions/geospatial.js",
+  "Graphs": "./questions/graphs.js",
+  "Probability & Statistics": "./questions/prob-and-stats.js",
+  "Some Continuous Distributions": "./questions/continuous-distribution.js",
+  "Causal Inference": "./questions/causal-inference.js",
   "Confidence Intervals": "./questions/confidence-intervals.js",
   "Calibration": "./questions/calibration.js",
   "Vision": "./questions/vision.js",
   "Text & NLP": "./questions/text-nlp.js",
-  "Data Labels": "./questions/data-labels.js",
+  "Data & Labels": "./questions/data-labels.js",
   "Big Data Science": "./questions/big-data-science.js",
-  "Agentic AI": "./questions/agentic-ai.js",
-  "Causal Inference": "./questions/causal-inference.js"
+  "Agentic AI": "./questions/agentic-ai.js"
 };
 
 const topicsContainer = document.getElementById('topics-container');
